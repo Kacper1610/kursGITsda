@@ -1,3 +1,1 @@
-Zmiana w pliku
-
-Dodanie nowej, eksperymentalnej funkcjonalnosci.
+Zmiana w pliku.
